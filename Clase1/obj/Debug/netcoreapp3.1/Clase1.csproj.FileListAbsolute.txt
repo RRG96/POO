@@ -1,0 +1,11 @@
+C:\Users\Rodro\Desktop\POO\Clase1\obj\Debug\netcoreapp3.1\Clase1.csprojAssemblyReference.cache
+C:\Users\Rodro\Desktop\POO\Clase1\obj\Debug\netcoreapp3.1\Clase1.AssemblyInfoInputs.cache
+C:\Users\Rodro\Desktop\POO\Clase1\obj\Debug\netcoreapp3.1\Clase1.AssemblyInfo.cs
+C:\Users\Rodro\Desktop\POO\Clase1\bin\Debug\netcoreapp3.1\Clase1.exe
+C:\Users\Rodro\Desktop\POO\Clase1\bin\Debug\netcoreapp3.1\Clase1.deps.json
+C:\Users\Rodro\Desktop\POO\Clase1\bin\Debug\netcoreapp3.1\Clase1.runtimeconfig.json
+C:\Users\Rodro\Desktop\POO\Clase1\bin\Debug\netcoreapp3.1\Clase1.runtimeconfig.dev.json
+C:\Users\Rodro\Desktop\POO\Clase1\bin\Debug\netcoreapp3.1\Clase1.dll
+C:\Users\Rodro\Desktop\POO\Clase1\bin\Debug\netcoreapp3.1\Clase1.pdb
+C:\Users\Rodro\Desktop\POO\Clase1\obj\Debug\netcoreapp3.1\Clase1.dll
+C:\Users\Rodro\Desktop\POO\Clase1\obj\Debug\netcoreapp3.1\Clase1.pdb
