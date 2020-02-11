@@ -1,0 +1,11 @@
+C:\Users\Rodro\Desktop\POO\Serie\Clap\bin\Debug\netcoreapp3.1\Clap.exe
+C:\Users\Rodro\Desktop\POO\Serie\Clap\bin\Debug\netcoreapp3.1\Clap.deps.json
+C:\Users\Rodro\Desktop\POO\Serie\Clap\bin\Debug\netcoreapp3.1\Clap.runtimeconfig.json
+C:\Users\Rodro\Desktop\POO\Serie\Clap\bin\Debug\netcoreapp3.1\Clap.runtimeconfig.dev.json
+C:\Users\Rodro\Desktop\POO\Serie\Clap\bin\Debug\netcoreapp3.1\Clap.dll
+C:\Users\Rodro\Desktop\POO\Serie\Clap\bin\Debug\netcoreapp3.1\Clap.pdb
+C:\Users\Rodro\Desktop\POO\Serie\Clap\obj\Debug\netcoreapp3.1\Clap.csprojAssemblyReference.cache
+C:\Users\Rodro\Desktop\POO\Serie\Clap\obj\Debug\netcoreapp3.1\Clap.AssemblyInfoInputs.cache
+C:\Users\Rodro\Desktop\POO\Serie\Clap\obj\Debug\netcoreapp3.1\Clap.AssemblyInfo.cs
+C:\Users\Rodro\Desktop\POO\Serie\Clap\obj\Debug\netcoreapp3.1\Clap.dll
+C:\Users\Rodro\Desktop\POO\Serie\Clap\obj\Debug\netcoreapp3.1\Clap.pdb

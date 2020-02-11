@@ -1,0 +1,11 @@
+C:\Users\Rodro\Desktop\POO\Serie\Agenda\bin\Debug\netcoreapp3.1\Agenda.exe
+C:\Users\Rodro\Desktop\POO\Serie\Agenda\bin\Debug\netcoreapp3.1\Agenda.deps.json
+C:\Users\Rodro\Desktop\POO\Serie\Agenda\bin\Debug\netcoreapp3.1\Agenda.runtimeconfig.json
+C:\Users\Rodro\Desktop\POO\Serie\Agenda\bin\Debug\netcoreapp3.1\Agenda.runtimeconfig.dev.json
+C:\Users\Rodro\Desktop\POO\Serie\Agenda\bin\Debug\netcoreapp3.1\Agenda.dll
+C:\Users\Rodro\Desktop\POO\Serie\Agenda\bin\Debug\netcoreapp3.1\Agenda.pdb
+C:\Users\Rodro\Desktop\POO\Serie\Agenda\obj\Debug\netcoreapp3.1\Agenda.csprojAssemblyReference.cache
+C:\Users\Rodro\Desktop\POO\Serie\Agenda\obj\Debug\netcoreapp3.1\Agenda.AssemblyInfoInputs.cache
+C:\Users\Rodro\Desktop\POO\Serie\Agenda\obj\Debug\netcoreapp3.1\Agenda.AssemblyInfo.cs
+C:\Users\Rodro\Desktop\POO\Serie\Agenda\obj\Debug\netcoreapp3.1\Agenda.dll
+C:\Users\Rodro\Desktop\POO\Serie\Agenda\obj\Debug\netcoreapp3.1\Agenda.pdb

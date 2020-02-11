@@ -1,0 +1,11 @@
+C:\Users\Rodro\Desktop\POO\Serie\Imaginarios\bin\Debug\netcoreapp3.1\Imaginarios.exe
+C:\Users\Rodro\Desktop\POO\Serie\Imaginarios\bin\Debug\netcoreapp3.1\Imaginarios.deps.json
+C:\Users\Rodro\Desktop\POO\Serie\Imaginarios\bin\Debug\netcoreapp3.1\Imaginarios.runtimeconfig.json
+C:\Users\Rodro\Desktop\POO\Serie\Imaginarios\bin\Debug\netcoreapp3.1\Imaginarios.runtimeconfig.dev.json
+C:\Users\Rodro\Desktop\POO\Serie\Imaginarios\bin\Debug\netcoreapp3.1\Imaginarios.dll
+C:\Users\Rodro\Desktop\POO\Serie\Imaginarios\bin\Debug\netcoreapp3.1\Imaginarios.pdb
+C:\Users\Rodro\Desktop\POO\Serie\Imaginarios\obj\Debug\netcoreapp3.1\Imaginarios.csprojAssemblyReference.cache
+C:\Users\Rodro\Desktop\POO\Serie\Imaginarios\obj\Debug\netcoreapp3.1\Imaginarios.AssemblyInfoInputs.cache
+C:\Users\Rodro\Desktop\POO\Serie\Imaginarios\obj\Debug\netcoreapp3.1\Imaginarios.AssemblyInfo.cs
+C:\Users\Rodro\Desktop\POO\Serie\Imaginarios\obj\Debug\netcoreapp3.1\Imaginarios.dll
+C:\Users\Rodro\Desktop\POO\Serie\Imaginarios\obj\Debug\netcoreapp3.1\Imaginarios.pdb

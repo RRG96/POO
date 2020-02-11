@@ -1,0 +1,11 @@
+C:\Users\Rodro\Desktop\POO\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.exe
+C:\Users\Rodro\Desktop\POO\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.deps.json
+C:\Users\Rodro\Desktop\POO\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.runtimeconfig.json
+C:\Users\Rodro\Desktop\POO\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.runtimeconfig.dev.json
+C:\Users\Rodro\Desktop\POO\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.dll
+C:\Users\Rodro\Desktop\POO\Ejercicios\bin\Debug\netcoreapp3.1\Ejercicios.pdb
+C:\Users\Rodro\Desktop\POO\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.csprojAssemblyReference.cache
+C:\Users\Rodro\Desktop\POO\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.AssemblyInfoInputs.cache
+C:\Users\Rodro\Desktop\POO\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.AssemblyInfo.cs
+C:\Users\Rodro\Desktop\POO\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.dll
+C:\Users\Rodro\Desktop\POO\Ejercicios\obj\Debug\netcoreapp3.1\Ejercicios.pdb

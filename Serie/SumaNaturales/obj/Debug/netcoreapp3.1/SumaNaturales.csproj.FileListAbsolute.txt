@@ -1,0 +1,11 @@
+C:\Users\Rodro\Desktop\POO\Serie\SumaNaturales\bin\Debug\netcoreapp3.1\SumaNaturales.exe
+C:\Users\Rodro\Desktop\POO\Serie\SumaNaturales\bin\Debug\netcoreapp3.1\SumaNaturales.deps.json
+C:\Users\Rodro\Desktop\POO\Serie\SumaNaturales\bin\Debug\netcoreapp3.1\SumaNaturales.runtimeconfig.json
+C:\Users\Rodro\Desktop\POO\Serie\SumaNaturales\bin\Debug\netcoreapp3.1\SumaNaturales.runtimeconfig.dev.json
+C:\Users\Rodro\Desktop\POO\Serie\SumaNaturales\bin\Debug\netcoreapp3.1\SumaNaturales.dll
+C:\Users\Rodro\Desktop\POO\Serie\SumaNaturales\bin\Debug\netcoreapp3.1\SumaNaturales.pdb
+C:\Users\Rodro\Desktop\POO\Serie\SumaNaturales\obj\Debug\netcoreapp3.1\SumaNaturales.csprojAssemblyReference.cache
+C:\Users\Rodro\Desktop\POO\Serie\SumaNaturales\obj\Debug\netcoreapp3.1\SumaNaturales.AssemblyInfoInputs.cache
+C:\Users\Rodro\Desktop\POO\Serie\SumaNaturales\obj\Debug\netcoreapp3.1\SumaNaturales.AssemblyInfo.cs
+C:\Users\Rodro\Desktop\POO\Serie\SumaNaturales\obj\Debug\netcoreapp3.1\SumaNaturales.dll
+C:\Users\Rodro\Desktop\POO\Serie\SumaNaturales\obj\Debug\netcoreapp3.1\SumaNaturales.pdb

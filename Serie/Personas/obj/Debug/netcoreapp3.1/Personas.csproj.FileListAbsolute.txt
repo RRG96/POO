@@ -1,0 +1,11 @@
+C:\Users\Rodro\source\repos\Personas\bin\Debug\netcoreapp3.1\Personas.exe
+C:\Users\Rodro\source\repos\Personas\bin\Debug\netcoreapp3.1\Personas.deps.json
+C:\Users\Rodro\source\repos\Personas\bin\Debug\netcoreapp3.1\Personas.runtimeconfig.json
+C:\Users\Rodro\source\repos\Personas\bin\Debug\netcoreapp3.1\Personas.runtimeconfig.dev.json
+C:\Users\Rodro\source\repos\Personas\bin\Debug\netcoreapp3.1\Personas.dll
+C:\Users\Rodro\source\repos\Personas\bin\Debug\netcoreapp3.1\Personas.pdb
+C:\Users\Rodro\source\repos\Personas\obj\Debug\netcoreapp3.1\Personas.csprojAssemblyReference.cache
+C:\Users\Rodro\source\repos\Personas\obj\Debug\netcoreapp3.1\Personas.AssemblyInfoInputs.cache
+C:\Users\Rodro\source\repos\Personas\obj\Debug\netcoreapp3.1\Personas.AssemblyInfo.cs
+C:\Users\Rodro\source\repos\Personas\obj\Debug\netcoreapp3.1\Personas.dll
+C:\Users\Rodro\source\repos\Personas\obj\Debug\netcoreapp3.1\Personas.pdb

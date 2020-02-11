@@ -1,0 +1,11 @@
+C:\Users\Rodro\Desktop\POO\Serie\VocalF\bin\Debug\netcoreapp3.1\VocalF.exe
+C:\Users\Rodro\Desktop\POO\Serie\VocalF\bin\Debug\netcoreapp3.1\VocalF.deps.json
+C:\Users\Rodro\Desktop\POO\Serie\VocalF\bin\Debug\netcoreapp3.1\VocalF.runtimeconfig.json
+C:\Users\Rodro\Desktop\POO\Serie\VocalF\bin\Debug\netcoreapp3.1\VocalF.runtimeconfig.dev.json
+C:\Users\Rodro\Desktop\POO\Serie\VocalF\bin\Debug\netcoreapp3.1\VocalF.dll
+C:\Users\Rodro\Desktop\POO\Serie\VocalF\bin\Debug\netcoreapp3.1\VocalF.pdb
+C:\Users\Rodro\Desktop\POO\Serie\VocalF\obj\Debug\netcoreapp3.1\VocalF.AssemblyInfoInputs.cache
+C:\Users\Rodro\Desktop\POO\Serie\VocalF\obj\Debug\netcoreapp3.1\VocalF.AssemblyInfo.cs
+C:\Users\Rodro\Desktop\POO\Serie\VocalF\obj\Debug\netcoreapp3.1\VocalF.dll
+C:\Users\Rodro\Desktop\POO\Serie\VocalF\obj\Debug\netcoreapp3.1\VocalF.pdb
+C:\Users\Rodro\Desktop\POO\Serie\VocalF\obj\Debug\netcoreapp3.1\VocalF.csprojAssemblyReference.cache

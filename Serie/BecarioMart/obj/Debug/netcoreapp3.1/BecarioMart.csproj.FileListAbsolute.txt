@@ -1,0 +1,11 @@
+C:\Users\Rodro\source\repos\BecarioMart\bin\Debug\netcoreapp3.1\BecarioMart.exe
+C:\Users\Rodro\source\repos\BecarioMart\bin\Debug\netcoreapp3.1\BecarioMart.deps.json
+C:\Users\Rodro\source\repos\BecarioMart\bin\Debug\netcoreapp3.1\BecarioMart.runtimeconfig.json
+C:\Users\Rodro\source\repos\BecarioMart\bin\Debug\netcoreapp3.1\BecarioMart.runtimeconfig.dev.json
+C:\Users\Rodro\source\repos\BecarioMart\bin\Debug\netcoreapp3.1\BecarioMart.dll
+C:\Users\Rodro\source\repos\BecarioMart\bin\Debug\netcoreapp3.1\BecarioMart.pdb
+C:\Users\Rodro\source\repos\BecarioMart\obj\Debug\netcoreapp3.1\BecarioMart.csprojAssemblyReference.cache
+C:\Users\Rodro\source\repos\BecarioMart\obj\Debug\netcoreapp3.1\BecarioMart.AssemblyInfoInputs.cache
+C:\Users\Rodro\source\repos\BecarioMart\obj\Debug\netcoreapp3.1\BecarioMart.AssemblyInfo.cs
+C:\Users\Rodro\source\repos\BecarioMart\obj\Debug\netcoreapp3.1\BecarioMart.dll
+C:\Users\Rodro\source\repos\BecarioMart\obj\Debug\netcoreapp3.1\BecarioMart.pdb

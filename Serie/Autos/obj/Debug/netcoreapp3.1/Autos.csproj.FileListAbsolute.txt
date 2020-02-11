@@ -1,0 +1,11 @@
+C:\Users\Rodro\source\repos\Autos\bin\Debug\netcoreapp3.1\Autos.exe
+C:\Users\Rodro\source\repos\Autos\bin\Debug\netcoreapp3.1\Autos.deps.json
+C:\Users\Rodro\source\repos\Autos\bin\Debug\netcoreapp3.1\Autos.runtimeconfig.json
+C:\Users\Rodro\source\repos\Autos\bin\Debug\netcoreapp3.1\Autos.runtimeconfig.dev.json
+C:\Users\Rodro\source\repos\Autos\bin\Debug\netcoreapp3.1\Autos.dll
+C:\Users\Rodro\source\repos\Autos\bin\Debug\netcoreapp3.1\Autos.pdb
+C:\Users\Rodro\source\repos\Autos\obj\Debug\netcoreapp3.1\Autos.csprojAssemblyReference.cache
+C:\Users\Rodro\source\repos\Autos\obj\Debug\netcoreapp3.1\Autos.AssemblyInfoInputs.cache
+C:\Users\Rodro\source\repos\Autos\obj\Debug\netcoreapp3.1\Autos.AssemblyInfo.cs
+C:\Users\Rodro\source\repos\Autos\obj\Debug\netcoreapp3.1\Autos.dll
+C:\Users\Rodro\source\repos\Autos\obj\Debug\netcoreapp3.1\Autos.pdb

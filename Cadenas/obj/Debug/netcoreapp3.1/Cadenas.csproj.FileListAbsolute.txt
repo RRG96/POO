@@ -1,0 +1,11 @@
+C:\Users\Rodro\Desktop\POO\Cadenas\bin\Debug\netcoreapp3.1\Cadenas.exe
+C:\Users\Rodro\Desktop\POO\Cadenas\bin\Debug\netcoreapp3.1\Cadenas.deps.json
+C:\Users\Rodro\Desktop\POO\Cadenas\bin\Debug\netcoreapp3.1\Cadenas.runtimeconfig.json
+C:\Users\Rodro\Desktop\POO\Cadenas\bin\Debug\netcoreapp3.1\Cadenas.runtimeconfig.dev.json
+C:\Users\Rodro\Desktop\POO\Cadenas\bin\Debug\netcoreapp3.1\Cadenas.dll
+C:\Users\Rodro\Desktop\POO\Cadenas\bin\Debug\netcoreapp3.1\Cadenas.pdb
+C:\Users\Rodro\Desktop\POO\Cadenas\obj\Debug\netcoreapp3.1\Cadenas.csprojAssemblyReference.cache
+C:\Users\Rodro\Desktop\POO\Cadenas\obj\Debug\netcoreapp3.1\Cadenas.AssemblyInfoInputs.cache
+C:\Users\Rodro\Desktop\POO\Cadenas\obj\Debug\netcoreapp3.1\Cadenas.AssemblyInfo.cs
+C:\Users\Rodro\Desktop\POO\Cadenas\obj\Debug\netcoreapp3.1\Cadenas.dll
+C:\Users\Rodro\Desktop\POO\Cadenas\obj\Debug\netcoreapp3.1\Cadenas.pdb

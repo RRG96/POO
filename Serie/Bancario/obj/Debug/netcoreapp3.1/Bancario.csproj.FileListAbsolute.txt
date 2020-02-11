@@ -1,0 +1,11 @@
+C:\Users\Rodro\Desktop\POO\Serie\Bancario\bin\Debug\netcoreapp3.1\Bancario.exe
+C:\Users\Rodro\Desktop\POO\Serie\Bancario\bin\Debug\netcoreapp3.1\Bancario.deps.json
+C:\Users\Rodro\Desktop\POO\Serie\Bancario\bin\Debug\netcoreapp3.1\Bancario.runtimeconfig.json
+C:\Users\Rodro\Desktop\POO\Serie\Bancario\bin\Debug\netcoreapp3.1\Bancario.runtimeconfig.dev.json
+C:\Users\Rodro\Desktop\POO\Serie\Bancario\bin\Debug\netcoreapp3.1\Bancario.dll
+C:\Users\Rodro\Desktop\POO\Serie\Bancario\bin\Debug\netcoreapp3.1\Bancario.pdb
+C:\Users\Rodro\Desktop\POO\Serie\Bancario\obj\Debug\netcoreapp3.1\Bancario.csprojAssemblyReference.cache
+C:\Users\Rodro\Desktop\POO\Serie\Bancario\obj\Debug\netcoreapp3.1\Bancario.AssemblyInfoInputs.cache
+C:\Users\Rodro\Desktop\POO\Serie\Bancario\obj\Debug\netcoreapp3.1\Bancario.AssemblyInfo.cs
+C:\Users\Rodro\Desktop\POO\Serie\Bancario\obj\Debug\netcoreapp3.1\Bancario.dll
+C:\Users\Rodro\Desktop\POO\Serie\Bancario\obj\Debug\netcoreapp3.1\Bancario.pdb
