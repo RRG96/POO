@@ -1,0 +1,11 @@
+C:\Users\Rodro\source\repos\Vehiculo\bin\Debug\netcoreapp3.1\Vehiculo.exe
+C:\Users\Rodro\source\repos\Vehiculo\bin\Debug\netcoreapp3.1\Vehiculo.deps.json
+C:\Users\Rodro\source\repos\Vehiculo\bin\Debug\netcoreapp3.1\Vehiculo.runtimeconfig.json
+C:\Users\Rodro\source\repos\Vehiculo\bin\Debug\netcoreapp3.1\Vehiculo.runtimeconfig.dev.json
+C:\Users\Rodro\source\repos\Vehiculo\bin\Debug\netcoreapp3.1\Vehiculo.dll
+C:\Users\Rodro\source\repos\Vehiculo\bin\Debug\netcoreapp3.1\Vehiculo.pdb
+C:\Users\Rodro\source\repos\Vehiculo\obj\Debug\netcoreapp3.1\Vehiculo.csprojAssemblyReference.cache
+C:\Users\Rodro\source\repos\Vehiculo\obj\Debug\netcoreapp3.1\Vehiculo.AssemblyInfoInputs.cache
+C:\Users\Rodro\source\repos\Vehiculo\obj\Debug\netcoreapp3.1\Vehiculo.AssemblyInfo.cs
+C:\Users\Rodro\source\repos\Vehiculo\obj\Debug\netcoreapp3.1\Vehiculo.dll
+C:\Users\Rodro\source\repos\Vehiculo\obj\Debug\netcoreapp3.1\Vehiculo.pdb

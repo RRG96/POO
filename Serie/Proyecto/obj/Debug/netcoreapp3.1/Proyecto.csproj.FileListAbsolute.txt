@@ -1,0 +1,10 @@
+C:\Users\Rodro\source\repos\Proyecto\bin\Debug\netcoreapp3.1\Proyecto.exe
+C:\Users\Rodro\source\repos\Proyecto\bin\Debug\netcoreapp3.1\Proyecto.deps.json
+C:\Users\Rodro\source\repos\Proyecto\bin\Debug\netcoreapp3.1\Proyecto.runtimeconfig.json
+C:\Users\Rodro\source\repos\Proyecto\bin\Debug\netcoreapp3.1\Proyecto.runtimeconfig.dev.json
+C:\Users\Rodro\source\repos\Proyecto\bin\Debug\netcoreapp3.1\Proyecto.dll
+C:\Users\Rodro\source\repos\Proyecto\bin\Debug\netcoreapp3.1\Proyecto.pdb
+C:\Users\Rodro\source\repos\Proyecto\obj\Debug\netcoreapp3.1\Proyecto.AssemblyInfoInputs.cache
+C:\Users\Rodro\source\repos\Proyecto\obj\Debug\netcoreapp3.1\Proyecto.AssemblyInfo.cs
+C:\Users\Rodro\source\repos\Proyecto\obj\Debug\netcoreapp3.1\Proyecto.dll
+C:\Users\Rodro\source\repos\Proyecto\obj\Debug\netcoreapp3.1\Proyecto.pdb

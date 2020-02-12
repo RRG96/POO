@@ -1,0 +1,11 @@
+C:\Users\Rodro\source\repos\Interfaz\bin\Debug\netcoreapp3.1\Interfaz.exe
+C:\Users\Rodro\source\repos\Interfaz\bin\Debug\netcoreapp3.1\Interfaz.deps.json
+C:\Users\Rodro\source\repos\Interfaz\bin\Debug\netcoreapp3.1\Interfaz.runtimeconfig.json
+C:\Users\Rodro\source\repos\Interfaz\bin\Debug\netcoreapp3.1\Interfaz.runtimeconfig.dev.json
+C:\Users\Rodro\source\repos\Interfaz\bin\Debug\netcoreapp3.1\Interfaz.dll
+C:\Users\Rodro\source\repos\Interfaz\bin\Debug\netcoreapp3.1\Interfaz.pdb
+C:\Users\Rodro\source\repos\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.csprojAssemblyReference.cache
+C:\Users\Rodro\source\repos\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.AssemblyInfoInputs.cache
+C:\Users\Rodro\source\repos\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.AssemblyInfo.cs
+C:\Users\Rodro\source\repos\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.dll
+C:\Users\Rodro\source\repos\Interfaz\obj\Debug\netcoreapp3.1\Interfaz.pdb
