@@ -1,0 +1,11 @@
+C:\Users\Rodro\Desktop\POO\Tarea4\bin\Debug\netcoreapp3.1\Tarea4.exe
+C:\Users\Rodro\Desktop\POO\Tarea4\obj\Debug\netcoreapp3.1\Tarea4.csprojAssemblyReference.cache
+C:\Users\Rodro\Desktop\POO\Tarea4\obj\Debug\netcoreapp3.1\Tarea4.AssemblyInfoInputs.cache
+C:\Users\Rodro\Desktop\POO\Tarea4\obj\Debug\netcoreapp3.1\Tarea4.AssemblyInfo.cs
+C:\Users\Rodro\Desktop\POO\Tarea4\bin\Debug\netcoreapp3.1\Tarea4.deps.json
+C:\Users\Rodro\Desktop\POO\Tarea4\bin\Debug\netcoreapp3.1\Tarea4.runtimeconfig.json
+C:\Users\Rodro\Desktop\POO\Tarea4\bin\Debug\netcoreapp3.1\Tarea4.runtimeconfig.dev.json
+C:\Users\Rodro\Desktop\POO\Tarea4\bin\Debug\netcoreapp3.1\Tarea4.dll
+C:\Users\Rodro\Desktop\POO\Tarea4\bin\Debug\netcoreapp3.1\Tarea4.pdb
+C:\Users\Rodro\Desktop\POO\Tarea4\obj\Debug\netcoreapp3.1\Tarea4.dll
+C:\Users\Rodro\Desktop\POO\Tarea4\obj\Debug\netcoreapp3.1\Tarea4.pdb
