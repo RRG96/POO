@@ -1,0 +1,9 @@
+C:\Users\Rodro\source\repos\MiPrimerGUI\obj\Debug\MiPrimerGUI.csprojAssemblyReference.cache
+C:\Users\Rodro\source\repos\MiPrimerGUI\obj\Debug\MiPrimerGUI.Form1.resources
+C:\Users\Rodro\source\repos\MiPrimerGUI\obj\Debug\MiPrimerGUI.Properties.Resources.resources
+C:\Users\Rodro\source\repos\MiPrimerGUI\obj\Debug\MiPrimerGUI.csproj.GenerateResource.cache
+C:\Users\Rodro\source\repos\MiPrimerGUI\bin\Debug\MiPrimerGUI.exe.config
+C:\Users\Rodro\source\repos\MiPrimerGUI\bin\Debug\MiPrimerGUI.exe
+C:\Users\Rodro\source\repos\MiPrimerGUI\bin\Debug\MiPrimerGUI.pdb
+C:\Users\Rodro\source\repos\MiPrimerGUI\obj\Debug\MiPrimerGUI.exe
+C:\Users\Rodro\source\repos\MiPrimerGUI\obj\Debug\MiPrimerGUI.pdb

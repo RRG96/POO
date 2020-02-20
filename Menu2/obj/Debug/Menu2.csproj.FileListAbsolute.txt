@@ -1,0 +1,9 @@
+C:\Users\Rodro\source\repos\Menu2\bin\Debug\Menu2.exe.config
+C:\Users\Rodro\source\repos\Menu2\bin\Debug\Menu2.exe
+C:\Users\Rodro\source\repos\Menu2\bin\Debug\Menu2.pdb
+C:\Users\Rodro\source\repos\Menu2\obj\Debug\Menu2.Form1.resources
+C:\Users\Rodro\source\repos\Menu2\obj\Debug\Menu2.Properties.Resources.resources
+C:\Users\Rodro\source\repos\Menu2\obj\Debug\Menu2.csproj.GenerateResource.cache
+C:\Users\Rodro\source\repos\Menu2\obj\Debug\Menu2.exe
+C:\Users\Rodro\source\repos\Menu2\obj\Debug\Menu2.pdb
+C:\Users\Rodro\source\repos\Menu2\obj\Debug\Menu2.csprojAssemblyReference.cache

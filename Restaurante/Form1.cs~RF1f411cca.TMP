@@ -1,0 +1,162 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Restaurante
+{
+    public partial class Form1 : Form
+    {
+        private Menu menu;
+        private Dictionary<string, double> Alimentos;
+        Carrito carrito = new Carrito();
+        public Form1()
+        {
+            InitializeComponent();
+            menu = new Menu();
+            Alimentos = new Dictionary<string, double>();
+        }
+
+        public void Precio_TextBox()
+        {
+            if (!(comboBox1.SelectedItem is null))
+                textBox1.Text = String.Format("{0:c}", Alimentos[comboBox1.SelectedItem.ToString()]);
+        }
+
+        private void entradasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            comboBox1.Items.Clear();
+            label1.Text = "Entradas";
+            Alimentos = menu.Datos("E", "A");
+            for (int i = 0; i < Alimentos.Keys.Count - 1; i++) 
+                comboBox1.Items.Add(Alimentos.ElementAt(i).Key);
+        }
+
+        private void antojosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            comboBox1.Items.Clear();
+            label1.Text = "Antojos";
+            Alimentos = menu.Datos("A", "DT");
+            for (int i = 0; i < Alimentos.Keys.Count - 1; i++)
+                comboBox1.Items.Add(Alimentos.ElementAt(i).Key);
+        }
+
+        private void conHuevoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            comboBox1.Items.Clear();
+            label1.Text = "Desayunos";
+            Alimentos = menu.Datos("DT", "DV");
+            for (int i = 0; i < Alimentos.Keys.Count - 1; i++)
+                comboBox1.Items.Add(Alimentos.ElementAt(i).Key);
+        }
+
+        private void pastasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            comboBox1.Items.Clear();
+            label1.Text = "Pastas";
+            Alimentos = menu.Datos("P", "FC");
+            for (int i = 0; i < Alimentos.Keys.Count - 1; i++)
+                comboBox1.Items.Add(Alimentos.ElementAt(i).Key);
+        }
+
+        private void veganosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            comboBox1.Items.Clear();
+            label1.Text = "Desayunos";
+            Alimentos = menu.Datos("DV", "P");
+            for (int i = 0; i < Alimentos.Keys.Count - 1; i++)
+                comboBox1.Items.Add(Alimentos.ElementAt(i).Key);
+        }
+
+        private void carnívorosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            comboBox1.Items.Clear();
+            label1.Text = "Carnes";
+            Alimentos = menu.Datos("FC", "FV");
+            for (int i = 0; i < Alimentos.Keys.Count - 1; i++)
+                comboBox1.Items.Add(Alimentos.ElementAt(i).Key);
+        }
+
+        private void postresToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            comboBox1.Items.Clear();
+            label1.Text = "Postres";
+            Alimentos = menu.Datos("Po", "B");
+            for (int i = 0; i < Alimentos.Keys.Count - 1; i++)
+                comboBox1.Items.Add(Alimentos.ElementAt(i).Key);
+        }
+
+        private void veganosToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            comboBox1.Items.Clear();
+            label1.Text = "Veganos";
+            Alimentos = menu.Datos("FV", "Po");
+            for (int i = 0; i < Alimentos.Keys.Count - 1; i++)
+                comboBox1.Items.Add(Alimentos.ElementAt(i).Key);
+        }
+
+        private void conAlcoholToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            comboBox1.Items.Clear();
+            label1.Text = "Tragos";
+            Alimentos = menu.Datos("BA", "Fin");
+            for (int i = 0; i < Alimentos.Keys.Count - 1; i++)
+                comboBox1.Items.Add(Alimentos.ElementAt(i).Key);
+        }
+
+        private void sinAlcoholToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            comboBox1.Items.Clear();
+            label1.Text = "Aguas";
+            Alimentos = menu.Datos("B", "BA");
+            for (int i = 0; i < Alimentos.Keys.Count - 1; i++)
+                comboBox1.Items.Add(Alimentos.ElementAt(i).Key);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                carrito.Producto.Add(comboBox1.SelectedItem.ToString());
+                carrito.Precio.Add(Alimentos[comboBox1.SelectedItem.ToString()]);
+                listBox1.Items.Add(String.Format("{0}: {1:c}", comboBox1.SelectedItem.ToString(), Alimentos[comboBox1.SelectedItem.ToString()]));
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form2 form2 = new Form2();
+            form2.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Add(String.Format("El precio a pagar es: {0:c}", carrito.Calcular_Precio()));
+            string usuario = Environment.UserName;
+            String pedido = carrito.ToString() + String.Format("El precio a pagar es: {0:c}", carrito.Calcular_Precio());
+            File.WriteAllText("C:\\Users\\" + usuario + "\\Documents" + "\\Pedido.txt", pedido);
+            MessageBox.Show("Gracias por su pedido\nVuelva Pronto!");
+            listBox1.Items.Clear();
+            carrito.Precio.Clear();
+            carrito.Producto.Clear();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form3 form3 = new Form3(carrito.Producto, carrito.Precio);
+            form3.Show();
+            carrito.Producto = form3.Actualiza_Arcticulos();
+            carrito.Precio = form3.Actualiza_Precios();
+        }
+    }
+}
